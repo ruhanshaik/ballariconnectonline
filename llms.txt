@@ -1,0 +1,10 @@
+# Ballari Connect
+
+> Ballari Connect is a local platform for Ballari (Bellary), Karnataka, India, covering jobs, news, property, businesses, services and education. Public launch: 1 November 2026.
+
+Developed by GMI Tech (https://gmitech.in/). Ballari Connect is the directory platform; GMI Tech is its developer.
+
+## Links
+- [Home](https://ballarijanare.com/): launch countdown and how to add your details
+- [Instagram](https://www.instagram.com/ballariconnect.online/): official updates
+- [Add your details](https://forms.gle/MWPBY8MSUDrqPDNK6): listing form for businesses, jobs, property and services
